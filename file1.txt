@@ -1,2 +1,1 @@
-apple
-grape
+"I am happy"
